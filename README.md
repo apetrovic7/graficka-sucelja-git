@@ -1,8 +1,13 @@
 # graficka-sucelja-git
-Tema: Graficka sucelja za Git
+Tema: 
+Graficka sucelja za Git
+
 Opisati najpopularnija graficka sucelja za Gitflow
 
 Clanovi tima:
-Ana Petrovic
-Ivan Buterin
-Damir Dizdarevic
+
+* Ana Petrovic
+
+* Ivan Buterin
+
+* Damir Dizdarevic
